@@ -226,7 +226,7 @@ The project uses RSpec for testing.
 To run the test suite, use the following command:
 
 ```bash
-docker compose --env-file .env.development run web rspec
+docker compose run web rspec
 ```
 
 The test coverage includes:
