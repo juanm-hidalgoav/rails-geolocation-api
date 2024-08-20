@@ -35,7 +35,7 @@ This project is a Ruby on Rails-based API that provides geolocation functionalit
 
    ```bash
    git clone https://github.com/juanm-hidalgoav/rails-geolocation-api.git
-   cd geolocation-api
+   cd rails-geolocation-api
    ```
 2. **Crearte .env file:**
 
