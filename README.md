@@ -34,7 +34,7 @@ This project is a Ruby on Rails-based API that provides geolocation functionalit
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/juanm-hidalgoav/geolocation-api.git
+   git clone https://github.com/juanm-hidalgoav/rails-geolocation-api.git
    cd geolocation-api
    ```
 2. **Crearte .env file:**
